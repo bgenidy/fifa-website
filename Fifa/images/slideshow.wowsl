@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>3.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>slideshow</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>blinds</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>400</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files/WOW Slider/templates/backgnd/push/</ImageTemplate>
+            <ImageTemplateName>Push</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/1374774/Desktop/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/1374774/Desktop</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>54</SlideshowDelay>
+            <SlideshowDuration>1</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>push</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>V:/Business/Buser/webpage_development_shares/6th Period Students/Beshoi Genidy/Fifa/images/slide1.png</url>
+                <userurl>http://www.fifa.com/associations/association=por/ranking/gender=m/index.html</userurl>
+                <usertarget>_blank</usertarget>
+            </Image>
+            <Image>
+                <url>V:/Business/Buser/webpage_development_shares/6th Period Students/Beshoi Genidy/Fifa/images/slide2.png</url>
+                <userurl>http://www.fifa.com/associations/association=bra/index.html</userurl>
+                <usertarget>_blank</usertarget>
+            </Image>
+            <Image>
+                <url>V:/Business/Buser/webpage_development_shares/6th Period Students/Beshoi Genidy/Fifa/images/slide3.png</url>
+                <userurl>http://www.fifa.com/associations/association=esp/ranking/gender=m/index.html</userurl>
+                <usertarget>_blank</usertarget>
+            </Image>
+            <Image>
+                <url>V:/Business/Buser/webpage_development_shares/6th Period Students/Beshoi Genidy/Fifa/images/slide4.png</url>
+                <userurl>http://www.fifa.com/associations/association=ger/ranking/gender=f/index.html</userurl>
+                <usertarget>_blank</usertarget>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

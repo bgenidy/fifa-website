@@ -1,0 +1,252 @@
+@charset "utf-8";
+/* CSS Document */
+
+p { margin: 0px; }
+
+a:link {
+	font-family: arial, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #666;
+	line-height; 125%;
+	text-decoration:none;
+}
+
+a:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	line-height: 125%;
+	color:#666;
+	text-decoration:none;
+}
+
+a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 125%;
+	color:#06C;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#banner{
+	width: 1200px;
+	height: 300px;
+	float: left;
+}
+
+#Navigation {
+	width:1200px;
+	height: 150px;
+	float: left;
+}
+
+#Navigation1 {
+	width:800px;
+	height: 75px;
+	float: left;
+}
+
+#Navigation2 {
+	width:800px;
+	height: 75px;
+	float: left;
+	background-color: #00539b;
+}
+
+#Navigation3 {
+	width:800px;
+	height: 150px;
+	float: left;
+}
+
+#Navigation4 {
+	width:400px;
+	height: 75px;
+	float: left;
+	background-image:url(images/navigationpart31.png);
+}
+
+#Navigation5 {
+	width:400px;
+	height: 75px;
+	float: left;
+	background-image:url(images/navigationpart3.png);
+}
+
+#Navigation6 {
+	width:400px;
+	height: 150px;
+	float: left;
+}
+
+#sns {
+	width: 1200px;
+	height: 500px;
+	float: left;
+}
+
+#slideshow{
+	width: 800px;
+	height: 400px;
+	float: left;
+}
+
+#slideshow2{
+	width: 800px;
+	height: 100px;
+	float: left;
+}
+
+#ns{
+	width: 400px;
+	height: 500px;
+	float: left;
+}
+
+#soccerrankings {
+	width: 400px;
+	height: 500px;
+	float: left;
+}
+
+
+#currentgames {
+	width: 1200px;
+	height: 75px;
+	float: left;
+}
+
+#bigbox {
+	height: 800px;
+	width: 1200px;
+	float: left;
+}
+
+#ta {
+	height: 800px;
+	width: 400px;
+	float: left;
+}
+
+#ft {
+	height: 800px;
+	width: 400px;
+	float: left;
+}
+
+#pa {
+	height: 800px;
+	width: 400px;
+	float: left;
+}
+
+
+
+#pole {
+	height: 400px;
+	width: 400px;
+	float: left;
+}
+
+#advertisements {
+	height: 400px;
+	width: 400px;
+	float: left;
+}
+
+#alltournaments {
+	height: 200px;
+	width: 400px;
+	float: left;
+}
+
+#aboutfifa {
+	height: 600px;
+	width: 400px;
+	float: left;
+}
+
+#fifagames{
+	height: 400px;
+	width: 400px;
+	float: left;
+}
+
+#twitter {
+	height: 400px;
+	width: 400px;
+	float: left;
+}
+
+#footer {
+	width: 1200px;
+	height: 300px;
+	float: left;
+	background-image: url(images/footer.png);
+}
+
+#footer1{
+	width: 300px;
+	height: 265px;
+	float: left;
+	padding-top: 35px;
+}
+
+#footer2{
+	width: 240px;
+	height: 265px;
+	float: left;
+	padding-top: 35px;
+	padding-left: 60px;
+}
+
+#footer3{
+	width: 230px;
+	height: 265px;
+	float: left;
+	padding-top: 35px;
+	padding-left: 70px;
+}
+
+#footer4{
+	width: 230px;
+	height: 265px;
+	float: left;
+	padding-top: 35px;
+	padding-left: 70px;
+}
+	
+
+
+#fifapartners{
+	width: 1200px;
+	height: 100px;
+	float: left;
+}
+	
